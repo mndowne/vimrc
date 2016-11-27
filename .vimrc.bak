@@ -3,7 +3,7 @@ set relativenumber
 
 
 "to turn off line wrap
-set nowrap
+"//set nowrap
 
 
 nnoremap tn :tabnew<Space>
