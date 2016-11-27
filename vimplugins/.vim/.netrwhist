@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/joe/Documents/projects/nodejsfan'
+let g:netrw_dirhist_2='/home/joe/Documents/nodeSchool/netNinjaToDoApp/node-js-playlist/views/layouts'
+let g:netrw_dirhist_3='/home/joe/Documents/nodeSchool/heroku/ticTacToe/.git'
