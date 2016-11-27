@@ -1,0 +1,18 @@
+This is my Vim RC 
+
+vim.plugins contents can be moved to the .vim file in the home directory 
+and .vimrc.bak can be renamed to .vimrc and put in the home directoty
+and everything should work fine
+
+Mndowne  
+   ___   ___  
+  /   \ /   \ 
+  | | | | | | 
+  | | | | | | 
+  | | | | | | 
+  \___/ \___/ 
+|             |
+ \           / 
+  \_________/
+       
+
